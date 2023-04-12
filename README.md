@@ -602,6 +602,97 @@ Table of Contents
 - [Numerics of Machine Learning (Winter 2022/23) - Tübingen Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij2lwDdj7IkuHoP9vHlEcH0s)
 
 ------------------------------
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Web Programming Courses</title>
+    <style>
+      /* Global styles */
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+      }
+      
+      /* Styles for the course list */
+      .course-list {
+        list-style: none;
+        padding: 0;
+        margin: 20px 0;
+      }
+      
+      .course-list li {
+        background-color: #f5f5f5;
+        padding: 10px;
+        border-radius: 5px;
+        margin-bottom: 10px;
+      }
+      
+      .course-list li a {
+        color: #333;
+        text-decoration: none;
+        font-weight: bold;
+      }
+      
+      .course-list li a:hover {
+        text-decoration: underline;
+      }
+      
+      .course-list li p {
+        margin: 0;
+      }
+      
+      .course-list li span {
+        font-size: 0.8em;
+        color: #999;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Web Programming Courses</h1>
+    
+    <ul class="course-list">
+      <li>
+        <a href="#">CS50's Web Programming with Python and JavaScript</a>
+        <p>Harvard University</p>
+        <span>Online course</span>
+      </li>
+      
+      <li>
+        <a href="#">Web Design Decal - HTML/CSS/JavaScript Course</a>
+        <p>University of California, Berkeley</p>
+        <span>In-person course</span>
+      </li>
+      
+      <li>
+        <a href="#">CS 75 Building Dynamic Websites</a>
+        <p>Harvard University</p>
+        <span>Online course</span>
+      </li>
+      
+      <!-- Add more courses here -->
+	    Web Programming and Internet Technologies
+CS50's Web Programming with Python and JavaScript
+Web Design Decal - HTML/CSS/JavaScript Course, University of California, Berkeley
+CS 75 Building Dynamic Websites - Harvard University
+Internet Technology - IIT Kharagpur
+Introduction to Modern Application Development - IIT Madras
+CSE 199 - How the Internet Works, Fall 2016 - University of Buffalo
+Open Sourced Elective: Database and Rails - Intro to Ruby on Rails, University of Texas (Lectures - Youtube)
+CSEP545 - Transaction Processing for E-Commerce, Winter 2012 - University of Washington (Videos)
+CT 310 Web Development - Colorado State University
+Internet Technologies and Applications 2012, Steven Gordon - Thammasat University, Thailand
+CSCI 3110 Advanced Topics in Web Development, Fall 2011 - ETSU iTunes
+CSCI 5710 e-Commerce Implementation, Fall 2015 - ETSU iTunes
+MOOC - Web Development - Udacity
+Web Technologies Prof. Dr. Christoph Meinel - HPI
+
+
+
+    </ul>
+    
+  </body>
+</html>
 
 ### Web Programming and Internet Technologies
 - [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
